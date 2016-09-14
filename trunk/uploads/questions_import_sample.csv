@@ -1,0 +1,6 @@
+question_text,question_grade,answer_text,answer_is_correct
+Unde s-a nascut Creanga?,2,Botosani|Humulesci|Sovata|Vaslui,0|1|0|0
+Unde s-a nascut Eminescu?,2,Botosani|Iasi|Roman|Neamt,1|0|0|0
+Cand a murit Eminescu?,2,1895|1889|1899|1890,0|1|0|0
+Cand s-a nascut M.Preda?,2,1933|1930|1922|1925,0|0|1|0
+Ce a stidiat I.Slavici?,2,filozofie|drept|teologie|inginerie,0|1|0|0
